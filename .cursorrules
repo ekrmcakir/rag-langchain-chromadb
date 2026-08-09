@@ -1,0 +1,5 @@
+- Use Python 3.10+ syntax.
+- Use latest LangChain imports (e.g., langchain-huggingface, langchain-community, langchain-chroma, langchain-classic).
+- Prefer modular code with proper type hints and docstrings.
+- Store sensitive keys in a .env file.
+- Follow PEP 8 guidelines and maintain clean variable naming conventions.
